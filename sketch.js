@@ -1,6 +1,6 @@
 //Create two variables that will store the new objects from the class Circle
 let circleArray = [];
-let arraySize = 10;
+let arraySize = 1000;
 
 function setup() {
   createCanvas(500, 500);
